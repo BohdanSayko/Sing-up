@@ -1,0 +1,121 @@
+#main {
+    width: 390px;
+    height: 844px;
+    background: #25273E;
+}
+
+header {
+    width: 346px;
+    height: 20px;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 16px;
+    padding-left: 20px;
+}
+
+#icons {
+    width: 70px;
+    height: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.icon {
+    margin-right: 8px;
+}
+
+#time {
+    font-size: 16px;
+    height: 20px;
+    color: white;
+}
+
+h1 {
+    font-size: 36px;
+    color: white;
+    width: 346px;
+    padding-left: 20px;
+    margin-top: 84px;
+}
+
+#names {
+    width: 346px;
+    height: 52px;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 20px;
+}
+
+.name {
+    width: 156px;
+    height: 52px;
+    border-radius: 50px;
+    border: 3px red solid;
+    font-size: 16px;
+    color: #c3c4c5;
+    background: #25273e00;
+    padding-left: 8px;
+}
+
+#inputs {
+    width: 346px;
+    height: 52px;
+    display: flexbox;
+    justify-content: space-between;
+    padding-left: 20px;
+    padding-bottom: 216px;
+}
+
+.input {
+    width: 338px;
+    height: 52px;
+    border-radius: 50px;
+    border: 3px red solid;
+    font-size: 16px;
+    color: #adb1b8;
+    background: #25273E;
+    padding-left: 8px;
+    margin-top: 28px;
+}
+
+#policy {
+    width: 338px;
+    height: 40px;
+    margin-left: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    margin: auto;
+    align-items: center;
+    color: #adb1b8;
+}
+
+#checkbox {
+    width: 20px;
+    height: 20px;
+    border: 3px #fff solid;
+    background: #25273E;
+    border-radius: 6px;
+}
+
+button {
+    width: 338px;
+    height: 52px;
+    border-radius: 50px;
+    background: #EE3A57;
+    border: 0px;
+    margin-left: 28px;
+    margin-top: 44px;
+    font-size: 24px;
+    color: white;
+    font-weight: bold;
+}
+
+footer {
+    height: 20px;
+    width: 338px;
+    margin-top: 136px;
+    margin-left: 28px;
+    display: flex;
+    justify-content: space-evenly;
+    color: #adb1b8;
+}
